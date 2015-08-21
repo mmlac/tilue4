@@ -18,5 +18,5 @@ into UE4 :)
 ### How do I give feedback?
 There are a couple of ways:
 - Comment below the post in question
-- File an issue in GitHub ( ideally just use those in conjunction with a pull request - otherwise your comments are hard to find. Prefer the comments for general tips)
+- File an issue in GitHub (  for reading / resource suggestions )
 - Submit a pull request via GitHub (if I have errors and you just want to fix them real quick :) )
