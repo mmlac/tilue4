@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Today I Learned: Unreal Engine 4 is a small blog about me learning UE4
   with the goal of building procedurally generated terrain and allow
   in-game deformation of such.
-baseurl: "/mmlac/tilue4" # the subpath of your site, e.g. /blog/
-url: "https://pages.github.com" # the base hostname & protocol for your site
+baseurl: "/tilue4/" # the subpath of your site, e.g. /blog/
+url: "http://www.mmlac.com" # the base hostname & protocol for your site
 twitter_username: mLachinger
 github_username: mmlac
 ue4_username: shox

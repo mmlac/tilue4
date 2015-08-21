@@ -14,3 +14,9 @@ into UE4 :)
 
 ### What's this first project you are speaking of?
  TBD :P
+
+### How do I give feedback?
+There are a couple of ways:
+- Comment below the post in question
+- File an issue in GitHub ( ideally just use those in conjunction with a pull request - otherwise your comments are hard to find. Prefer the comments for general tips)
+- Submit a pull request via GitHub (if I have errors and you just want to fix them real quick :) )
